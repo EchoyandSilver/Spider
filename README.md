@@ -18,3 +18,11 @@
 	注释：模拟登录GitHub，将登陆后的个人界面html文本保存在html文件内。使用方法名：scrapy.FormRequest.from_response。
 	```
 
+* 04-下载器中间件
+
+	```
+	注释：修改下载器中间件文件middlewares.py，达到随机更换user-agent和代理ip。
+	```
+	
+	
+	
